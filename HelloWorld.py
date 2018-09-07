@@ -1,1 +1,1 @@
-print("Hey, Everything starts with a Hello World!")
+print("Everything starts with a Hello World!")
